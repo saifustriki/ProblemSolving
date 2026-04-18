@@ -1,0 +1,4 @@
+Graphique sauvegardé : resultats/graphe_aleatoire.png
+Graphique sauvegardé : resultats/graphe_trie.png
+Graphique sauvegardé : resultats/graphe_inverse.png
+Tous les graphiques ont été générés dans le dossier 'resultats/'.

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make)",
+      "Bash(gcc -O2 -Wall -o simulateur main.c tri.c)",
+      "Bash(mkdir -p resultats)",
+      "Bash(./simulateur)",
+      "Bash(./simulateur.exe)",
+      "Bash(cmd /c \"simulateur.exe\")",
+      "Bash(cmd *)",
+      "Bash(powershell *)",
+      "Bash(gcc -O2 -Wall -o simulateur.exe main.c tri.c)",
+      "Bash(py plot.py)"
+    ]
+  }
+}

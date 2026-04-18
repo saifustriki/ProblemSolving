@@ -1,0 +1,152 @@
+========================================================
+    Simulateur de comparaison d'algorithmes de tri
+========================================================
+N          | Algorithme | Cas        | Temps (ms)
+--------------------------------------------------------
+1000       | selection  | aleatoire  | 0.00 ms
+1000       | bulles     | aleatoire  | 0.00 ms
+1000       | insertion  | aleatoire  | 0.00 ms
+1000       | shell      | aleatoire  | 0.00 ms
+1000       | rapide     | aleatoire  | 0.00 ms
+1000       | selection  | trie       | 0.00 ms
+1000       | bulles     | trie       | 0.00 ms
+1000       | insertion  | trie       | 0.00 ms
+1000       | shell      | trie       | 0.00 ms
+1000       | rapide     | trie       | 0.00 ms
+1000       | selection  | inverse    | 0.00 ms
+1000       | bulles     | inverse    | 0.00 ms
+1000       | insertion  | inverse    | 0.00 ms
+1000       | shell      | inverse    | 0.00 ms
+1000       | rapide     | inverse    | 0.00 ms
+--------------------------------------------------------
+5000       | selection  | aleatoire  | 31.00 ms
+5000       | bulles     | aleatoire  | 33.00 ms
+5000       | insertion  | aleatoire  | 16.00 ms
+5000       | shell      | aleatoire  | 0.00 ms
+5000       | rapide     | aleatoire  | 0.00 ms
+5000       | selection  | trie       | 16.00 ms
+5000       | bulles     | trie       | 0.00 ms
+5000       | insertion  | trie       | 0.00 ms
+5000       | shell      | trie       | 0.00 ms
+5000       | rapide     | trie       | 16.00 ms
+5000       | selection  | inverse    | 16.00 ms
+5000       | bulles     | inverse    | 67.00 ms
+5000       | insertion  | inverse    | 0.00 ms
+5000       | shell      | inverse    | 0.00 ms
+5000       | rapide     | inverse    | 13.00 ms
+--------------------------------------------------------
+10000      | selection  | aleatoire  | 95.00 ms
+10000      | bulles     | aleatoire  | 192.00 ms
+10000      | insertion  | aleatoire  | 15.00 ms
+10000      | shell      | aleatoire  | 0.00 ms
+10000      | rapide     | aleatoire  | 0.00 ms
+10000      | selection  | trie       | 96.00 ms
+10000      | bulles     | trie       | 0.00 ms
+10000      | insertion  | trie       | 0.00 ms
+10000      | shell      | trie       | 0.00 ms
+10000      | rapide     | trie       | -1.00 ms
+10000      | selection  | inverse    | 96.00 ms
+10000      | bulles     | inverse    | 222.00 ms
+10000      | insertion  | inverse    | 16.00 ms
+10000      | shell      | inverse    | 0.00 ms
+10000      | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+50000      | selection  | aleatoire  | 2504.00 ms
+50000      | bulles     | aleatoire  | 5151.00 ms
+50000      | insertion  | aleatoire  | 239.00 ms
+50000      | shell      | aleatoire  | 0.00 ms
+50000      | rapide     | aleatoire  | 0.00 ms
+50000      | selection  | trie       | 2503.00 ms
+50000      | bulles     | trie       | 0.00 ms
+50000      | insertion  | trie       | 0.00 ms
+50000      | shell      | trie       | 0.00 ms
+50000      | rapide     | trie       | -1.00 ms
+50000      | selection  | inverse    | 2499.00 ms
+50000      | bulles     | inverse    | 5650.00 ms
+50000      | insertion  | inverse    | 478.00 ms
+50000      | shell      | inverse    | 0.00 ms
+50000      | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+100000     | selection  | aleatoire  | 10513.00 ms
+100000     | bulles     | aleatoire  | 21534.00 ms
+100000     | insertion  | aleatoire  | 944.00 ms
+100000     | shell      | aleatoire  | 10.00 ms
+100000     | rapide     | aleatoire  | 7.00 ms
+100000     | selection  | trie       | 9951.00 ms
+100000     | bulles     | trie       | 0.00 ms
+100000     | insertion  | trie       | 0.00 ms
+100000     | shell      | trie       | 2.00 ms
+100000     | rapide     | trie       | -1.00 ms
+100000     | selection  | inverse    | 9960.00 ms
+100000     | bulles     | inverse    | 23848.00 ms
+100000     | insertion  | inverse    | 1902.00 ms
+100000     | shell      | inverse    | 0.00 ms
+100000     | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+500000     | selection  | aleatoire  | -1.00 ms
+500000     | bulles     | aleatoire  | -1.00 ms
+500000     | insertion  | aleatoire  | -1.00 ms
+500000     | shell      | aleatoire  | 64.00 ms
+500000     | rapide     | aleatoire  | 32.00 ms
+500000     | selection  | trie       | -1.00 ms
+500000     | bulles     | trie       | -1.00 ms
+500000     | insertion  | trie       | -1.00 ms
+500000     | shell      | trie       | 16.00 ms
+500000     | rapide     | trie       | -1.00 ms
+500000     | selection  | inverse    | -1.00 ms
+500000     | bulles     | inverse    | -1.00 ms
+500000     | insertion  | inverse    | -1.00 ms
+500000     | shell      | inverse    | 16.00 ms
+500000     | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+1000000    | selection  | aleatoire  | -1.00 ms
+1000000    | bulles     | aleatoire  | -1.00 ms
+1000000    | insertion  | aleatoire  | -1.00 ms
+1000000    | shell      | aleatoire  | 127.00 ms
+1000000    | rapide     | aleatoire  | 79.00 ms
+1000000    | selection  | trie       | -1.00 ms
+1000000    | bulles     | trie       | -1.00 ms
+1000000    | insertion  | trie       | -1.00 ms
+1000000    | shell      | trie       | 16.00 ms
+1000000    | rapide     | trie       | -1.00 ms
+1000000    | selection  | inverse    | -1.00 ms
+1000000    | bulles     | inverse    | -1.00 ms
+1000000    | insertion  | inverse    | -1.00 ms
+1000000    | shell      | inverse    | 32.00 ms
+1000000    | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+5000000    | selection  | aleatoire  | -1.00 ms
+5000000    | bulles     | aleatoire  | -1.00 ms
+5000000    | insertion  | aleatoire  | -1.00 ms
+5000000    | shell      | aleatoire  | 726.00 ms
+5000000    | rapide     | aleatoire  | 692.00 ms
+5000000    | selection  | trie       | -1.00 ms
+5000000    | bulles     | trie       | -1.00 ms
+5000000    | insertion  | trie       | -1.00 ms
+5000000    | shell      | trie       | 127.00 ms
+5000000    | rapide     | trie       | -1.00 ms
+5000000    | selection  | inverse    | -1.00 ms
+5000000    | bulles     | inverse    | -1.00 ms
+5000000    | insertion  | inverse    | -1.00 ms
+5000000    | shell      | inverse    | 158.00 ms
+5000000    | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+10000000   | selection  | aleatoire  | -1.00 ms
+10000000   | bulles     | aleatoire  | -1.00 ms
+10000000   | insertion  | aleatoire  | -1.00 ms
+10000000   | shell      | aleatoire  | 1544.00 ms
+10000000   | rapide     | aleatoire  | 2164.00 ms
+10000000   | selection  | trie       | -1.00 ms
+10000000   | bulles     | trie       | -1.00 ms
+10000000   | insertion  | trie       | -1.00 ms
+10000000   | shell      | trie       | 253.00 ms
+10000000   | rapide     | trie       | -1.00 ms
+10000000   | selection  | inverse    | -1.00 ms
+10000000   | bulles     | inverse    | -1.00 ms
+10000000   | insertion  | inverse    | -1.00 ms
+10000000   | shell      | inverse    | 336.00 ms
+10000000   | rapide     | inverse    | -1.00 ms
+--------------------------------------------------------
+
+Résultats sauvegardés dans resultats/resultats.csv
+Lancez 'python plot.py' pour générer les graphiques.
