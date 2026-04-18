@@ -1,7 +1,7 @@
 # Comparaison d'algorithmes de tri en C
 
 **Module :** Problem Solving — Licence en Sciences Informatiques 2ème année  
-**Auteurs :** Saifeddine Triki & Salmen Zekri
+**Auteurs :** Salmen Zekri & Saifeddine Triki
 
 ## Sujet
 
