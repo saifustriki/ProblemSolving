@@ -1,6 +1,6 @@
 # Rapport : Comparaison d'algorithmes de tri
 
-**Module :** Problem Solving  
+**Module :** Problem Solving — Licence en Sciences Informatiques 2ème année  
 **Auteur :** Saifeddine Triki & Salmen Zekri
 **Date :** Avril 2026
 
